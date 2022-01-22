@@ -1,0 +1,8 @@
+.panda-bg{
+    background-color: #feeae9;
+}
+/* overwrite the bootstrap class by making custom class in css file and replacing the bootstrap class with my custom class. */
+.panda-btn{
+    background-color: #ff257b;
+    color: white;
+}
